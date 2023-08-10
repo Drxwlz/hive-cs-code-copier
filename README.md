@@ -10,3 +10,8 @@ Installation:
       (python.org/downloads/)
   - install neccesary python libraries from the python file found in releases:
      (please reffer to "Releases")
+
+
+
+Creator's note:
+  I apologize for the lack of profesionalism. I am new to GitHub and do not know my way "around the block".
