@@ -30,7 +30,7 @@ To use this script, follow these installation steps:
 
 You can also find me on:
 
-- YouTube: [@Drxwlz](https://www.youtube.com/Drxwlz)
+- YouTube: [@Drxwlz](https://www.youtube.com/@Drxwlz)
 - Discord: [@Drxwlz]
 
 Please feel free to reach out with any questions or feedback. Thank you for choosing the Hive CS Code Copier!
