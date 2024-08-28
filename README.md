@@ -2,10 +2,10 @@
 
 ## Usage Guidelines
 
-Welcome to the Hive CS Code Copier! This program is open for use by anyone. Please be kind enough to give proper credit to the original creator when using it, and ensure that the original creator's identity is not obscured or misrepresented.
+Welcome to the Hive CS Code Copier! This program is open for use by anyone. Please be kind enough to give proper credit to the original creator when using it, and ensure that the original creator's identity is not misrepresented.
 
 - Provide attribution to Drxwlz as the original creator.
-- Avoid misrepresenting or obscuring the original creator's identity.
+- Avoid misrepresenting the original creator's identity.
 - Respect the rights of the original creator.
 
 Enjoy using my program!
